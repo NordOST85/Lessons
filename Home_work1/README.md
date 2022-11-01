@@ -13,6 +13,7 @@ a = -9 b = -3 -> max = -3
 2, 3, 7 -> 7
 44 5 78 -> 78
 22 3 9 -> 22
+
 [блок схема](PlanDiagram1.drawio.png) | [код](Program1.cs)
 
 
@@ -22,6 +23,7 @@ a = -9 b = -3 -> max = -3
 4 -> да
 -3 -> нет
 7 -> нет
+
 [блок схема](PlanDiagram2.drawio.png) | [код](Program2.cs)
 
 
@@ -30,4 +32,5 @@ a = -9 b = -3 -> max = -3
 
 5 -> 2, 4
 8 -> 2, 4, 6, 8
+
 [блок схема](PlanDiagram3.drawio.png) | [код](Program3.cs)
