@@ -4,27 +4,13 @@ Console.WriteLine("Введи второе число: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введи третье число: ");
 int num3 = Convert.ToInt32(Console.ReadLine());
-if (num1 > num2)
+int max = num1;
+if (num2 > num1)
 {
-    Console.WriteLine("Первое число больше второго");
+max = num2;
 }
-else if (num1 > num3)
+if (num3 > num2)
 {
-    Console.WriteLine("Первое число больше третьего");
+max = num3;
 }
-Console.WriteLine("Первое число самое большое");
-if (num1 < num2)
-{
-    Console.WriteLine("Первое число меньше второго");
-}
-else if (num2 > num3)
-{
-    Console.WriteLine("Второе число больше третьего");
-}
-Console.WriteLine("Второе число самое большое");
-if (num2 < num3)
-{
-    Console.WriteLine("Второе число меньше третьего");
-}
-Console.WriteLine("Третьте число самое большое");
-Console.WriteLine();
+Console.WriteLine(max);    
