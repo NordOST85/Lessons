@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\practice001.2.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\practice001.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\practice001.2.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\practice001.2.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\practice001.2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\bin\Debug\net6.0\practice001.2.exe
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\bin\Debug\net6.0\practice001.2.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\bin\Debug\net6.0\practice001.2.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\bin\Debug\net6.0\practice001.2.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\bin\Debug\net6.0\practice001.2.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\practice001.2.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\refint\practice001.2.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\practice001.2.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\practice001.2.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice001.2\obj\Debug\net6.0\ref\practice001.2.dll
