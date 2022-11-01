@@ -12,19 +12,19 @@ else if (num1 > num3)
 {
     Console.WriteLine("Первое число больше третьего");
 }
-Console.WriteLine("Первое число самое большое"); !!!!!!!!!
+Console.WriteLine("Первое число самое большое");
 if (num1 < num2)
 {
-    Console.WriteLine("Первое число меньше второго"); !!!!!!!
+    Console.WriteLine("Первое число меньше второго");
 }
 else if (num2 > num3)
 {
     Console.WriteLine("Второе число больше третьего");
 }
-Console.WriteLine("Второе число самое большое"); !!!!!!!!!!
+Console.WriteLine("Второе число самое большое");
 if (num2 < num3)
 {
-    Console.WriteLine("Второе число меньше третьего"); !!!!!!!
+    Console.WriteLine("Второе число меньше третьего");
 }
-Console.WriteLine("Третьте число самое большое"); !!!!!!
+Console.WriteLine("Третьте число самое большое");
 Console.WriteLine();
