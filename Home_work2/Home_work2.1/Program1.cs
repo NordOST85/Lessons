@@ -20,7 +20,7 @@ if (number2 > 99)
 
 else
 {
- Console.WriteLine("В числе меньше 3-ёх символов!");
+ Console.WriteLine("В числе меньше 3-х символов!");
 }
 
 int number5 = 78;
