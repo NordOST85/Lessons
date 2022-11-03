@@ -6,7 +6,7 @@
 782 -> 8
 918 -> 1
 
-[блок схема](PlanDiagram2.drawio.png) | [код](Program1.cs)
+[блок схема](PlanDiagram.drawio.png) | [код](Program.cs)
 
 ## Task 13
 Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
@@ -16,7 +16,7 @@
 78 -> третьей цифры нет
 32679 -> 6
 
-[блок схема](PlanDiagram.drawio.png) | [код](Program.cs)
+[блок схема](PlanDiagram2.drawio.png) | [код](Program1.cs)
 
 
 ## Task 15!
