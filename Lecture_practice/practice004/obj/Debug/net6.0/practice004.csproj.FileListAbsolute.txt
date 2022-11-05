@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\bin\Debug\net6.0\practice004.exe
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\bin\Debug\net6.0\practice004.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\bin\Debug\net6.0\practice004.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\bin\Debug\net6.0\practice004.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\bin\Debug\net6.0\practice004.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\practice004.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\practice004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\practice004.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\practice004.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\practice004.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\practice004.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\refint\practice004.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\practice004.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\practice004.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ПАПА\LP\Lessons\Lessons\Lecture_practice\practice004\obj\Debug\net6.0\ref\practice004.dll
