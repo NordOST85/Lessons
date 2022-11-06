@@ -5,6 +5,8 @@
 //}
 //Console.WriteLine(Factorial(5));
 
+//Вместо int - double(для усвоения больших чисел)
+
 int Factorial (int n)
 {
     if (n == 1) return 1;
