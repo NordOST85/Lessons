@@ -1,5 +1,4 @@
-﻿ // y = k1 * x + b1, y = k2 * x + b2
-double[,] coeff = new double[2, 2];
+﻿double[,] coeff = new double[2, 2];
 double[] crossPoint = new double[2];
 
 void InputCoefficients(){
