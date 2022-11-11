@@ -17,4 +17,4 @@ M = 4; N = 8. -> 30
 m = 2, n = 3 -> A(m,n) = 9
 m = 3, n = 2 -> A(m,n) = 29
 
-блок схема]() | [код](https://github.com/NordOST85/Lessons/blob/main/Final/Task68/Program.cs)
+блок схема]() | [код](https://github.com/NordOST85/Lessons/blob/main/Final/Task64/Program.cs)
