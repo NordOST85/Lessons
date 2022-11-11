@@ -3,7 +3,7 @@
 N = 5 -> "5, 4, 3, 2, 1"
 N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
-блок схема]() | [код](https://github.com/NordOST85/Lessons/blob/main/Final/Task64/Task64.csproj)
+блок схема]() | [код](https://github.com/NordOST85/Lessons/blob/main/Final/Task64/Program.cs)
 
 
 ## Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму натуральных элементов в промежутке от M до N.
